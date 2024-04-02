@@ -140,46 +140,46 @@ class Snake():                                               # 🧸💬 Create c
 
         return
         
-    def get_head_x( self ):
+    def get_head_x( self ):                                  # 🧸💬 get_head_x function definition
         
-        return self.snake_head_x;
+        return self.snake_head_x;                            # 🧸💬 return self.snake_head_x
         
-    def get_head_y( self ):
+    def get_head_y( self ):                                  # 🧸💬 get_head_y function definition
         
-        return self.snake_head_y;
+        return self.snake_head_y;                            # 🧸💬 return self.snake_head_y
         
-    def get_food_x( self ):
+    def get_food_x( self ):                                  # 🧸💬 get_food_x function definition
     
-        return self.food_x;
+        return self.food_x;                                  # 🧸💬 return self.food_x
         
-    def get_food_y( self ):
+    def get_food_y( self ):                                  # 🧸💬 get_food_y function definition
     
-        return self.food_y;
+        return self.food_y;                                  # 🧸💬 return self.food_y
         
-    def get_distance_x( self ):
+    def get_distance_x( self ):                              # 🧸💬 get_distance_x function definition
     
-        return self.dist_x;
+        return self.dist_x;                                  # 🧸💬 return self.dist_x
         
-    def get_distance_y( self ):
+    def get_distance_y( self ):                              # 🧸💬 get_distance_y function definition
     
-        return self.dist_y;
+        return self.dist_y;                                  # 🧸💬 return self.dist_y
         
-        
-    def get_snakebody( self ):
+    def get_snakebody( self ):                               # 🧸💬 get_snakebody function definition
     
-        return self.snake_body;
+        return self.snake_body;                              # 🧸💬 return self.snake_body
         
-    def get_snakebody_pos( self ):
+    def get_snakebody_pos( self ):                           # 🧸💬 get_snakebody_pos function definition
     
-        return self.snake_body_pos;
+        return self.snake_body_pos;                          # 🧸💬 return self.snake_body_pos
         
         
-    def get_possibleactions( self ):
+    def get_possibleactions( self ):                         # 🧸💬 get_possibleactions function definition
 
             
         # ...
     
-        return K_h;
+        return K_h;                                          # 🧸💬 Implementation of prediction function return
+                                                             # possible action and mapped constant value.
 ```
 
 ### 🧸💬 Agent Queue class implementation
