@@ -55,7 +55,7 @@ nb_frames = 100000000000
 
 ### 🧸💬 Create a learning environment.
 
-🐨🎁🎵🎶 In a learning environment is an application with the construct of possible variables they are setup sample the Half-life games for modern environment simulation games and modification games are defined construct variables from the learning environment application games. They are also called ```learning environments``` .
+🐨🎁🎵🎶 In a learning environment is an application with the construct of possible variables they are setup sample the Half-life games for modern environment simulation games and modification games are defined construct variables from the learning environment application games. They are also called ```learning environments``` . 👤🗯️ ```ไปเรียนแม่‼️```
 
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
