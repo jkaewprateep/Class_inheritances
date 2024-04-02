@@ -34,7 +34,8 @@ from pygame.constants import K_a, K_s, K_d, K_w, K_h   # 🧸💬 import of cons
 ```
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/pulse%20code%20modulation.png">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/pulse%20code%20modulation.png"> </br>
+    <b> Pluse codes modulation </b>
 </p>
 
 👧💬 🎈 ```Pluse code modulation``` or ```time-shifted channel``` was developed by Nintendo and distributed during our youth time, long years after supporting of the government they launched the games players ```Nintendo PlayStation``` . </br>
