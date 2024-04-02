@@ -81,6 +81,8 @@ obs = p.getScreenRGB()                                                      # ðŸ
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/asian-nerd-girl.jpg">
 </p>
 
+<b> Picture from the Internet </b>
+
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Class / Functions
