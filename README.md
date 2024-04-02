@@ -77,6 +77,10 @@ obs = p.getScreenRGB()                                                      # �
 🐐💬 I can randomly place the same variable name somewhere and forget, the ```seeker``` can invoke of the target function by the ```function invoker``` but they cannot modify the values since they are the same variable names. </br>
 👧💬 🎈 The games cheaters do not have class they do not know how to types ```self``` 💃( 👩‍🏫 )💬 🛍️👠💄 . </br>
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/asian-nerd-girl.jpg">
+</p>
+
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Class / Functions
