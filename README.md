@@ -12,6 +12,11 @@ Implement Python class inheritance with Pygames and AI for agent queue learning,
 </p>
 
 ### 🧸💬 Library import.
+
+🐑💬 ➰ Refer to class or directory structure by the import reference commands, we have control of changes of class method files in the library by ```summation value``` and ```external library```. </br>
+🦭💬 ```Complied``` codes or ```backup``` running code is a good method when ```separation of execution path``` from method and data are good practice for working with third-party applications or someone calls sensitive data. </br>
+🐐💬 In design the Pygame environment constant is similar to console games players and communication of controller and games player device controller accepted of both ```decimal numeric values``` and ```heximal numeric values``` when some games player modification can use ```binary numberic values``` communications but the communication types is start from initial message. Do not shift the jumper otherwise, you may return to ```A-B``` mode as default. ( It is the controller at last button A and B is working or most contrast control is working - can explain in electronics communication and neurons sciences ) </br>
+
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Import libraries
