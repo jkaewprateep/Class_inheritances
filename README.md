@@ -16,16 +16,16 @@ Implement Python class inheritance with Pygames and AI for agent queue learning,
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Import libraries
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
-import sys
-import pygame
-import ple
+import sys                                             # 🧸💬 import library # 🧸💬 os.linesep is useful for multi-culture communications.
+import pygame                                          # 🧸💬 import pygame library, drawing, structs, variables, and many of sample games environments.
+import ple                                             # 🧸💬 import Python learning environment, games wrapper, and communications method.
 
-import tensorflow as tf
+import tensorflow as tf                                # 🧸💬 import tensorflow machine learning library.
 
-from ple import PLE
-from ple.games.snake import Snake as Snake_Game
+from ple import PLE                                    # 🧸💬 import Python learning environment.
+from ple.games.snake import Snake as Snake_Game        # 🧸💬 import Sanke game from ple.
 
-from pygame.constants import K_a, K_s, K_d, K_w, K_h
+from pygame.constants import K_a, K_s, K_d, K_w, K_h   # 🧸💬 import of console constant variables.
 ```
 
 ### 🧸💬 Global project variables.
