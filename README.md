@@ -232,6 +232,11 @@ class AgentQueue():                                          # 🧸💬 Agent Qu
 🦭💬 In applications working with ```communication methods``` from ```defined definition solution``` build and pre-trained, there are run timeout as call external method function and ```no response condition``` . </br>
 🐑💬 ➰ Study can create of the exception flow or learning application from the environment working patterns to create of defined applications with various purposes. </br>
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/FlappyBird_small.gif"> </br>
+    <b> Flappy birds with accerelation variables </b>
+</p>
+
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Tasks
