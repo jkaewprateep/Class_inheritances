@@ -184,6 +184,11 @@ class Snake():                                               # 🧸💬 Create c
 
 🐨🎁🎵🎶 In ```Agent Queue``` implementation we prepared for cascade machine learning with multi-agents action classification, or known as ```parallel process``` or ```distribution processing units``` . </br> 
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/multi-process.png"> </br>
+    <b> Multi=processes and TF-Agents </b>
+</p>
+
 ```
 class AgentQueue():
 
