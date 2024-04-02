@@ -38,7 +38,7 @@ from pygame.constants import K_a, K_s, K_d, K_w, K_h   # 🧸💬 import of cons
 </p>
 
 👧💬 🎈 ```Pluse code modulation``` or ```time-shifted channel``` was developed by Nintendo and distributed during our youth time, long years after supporting of the government they launched the games players ```Nintendo PlayStation``` . </br>
-🐑💬 ➰ This maybe the event called time capsules because of the ability to recover communication messages and transfer rates vary by device negotiation compatibilities. </br>
+🐑💬 ➰ This may be the event called ```time capsules `` because of the ability to recover communication messages and transfer rates vary by device negotiation compatibilities. In the ```time capsules``` can store validation matrixes and summary values of the designed communication channel's message you can categorize and summarize computer players for their actions responses and feedback as in console games players save CPU time process when the console box use compatibilities specification for decrypted communication message and response. Of course, random variances create a of variety actions and possibilities by the actions played. </br>
 
 ### 🧸💬 Global project variables.
 ```
