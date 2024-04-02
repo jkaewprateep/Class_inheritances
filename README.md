@@ -233,8 +233,8 @@ class AgentQueue():                                          # 🧸💬 Agent Qu
 🐑💬 ➰ Study can create of the exception flow or learning application from the environment working patterns to create of defined applications with various purposes. </br>
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/FlappyBird_small.gif"> </br>
-    <b> Flappy birds with accerelation variables </b>
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/Snank_AI_vs_Random_10_minutes.gif"> </br>
+    <b> Sample Snake Agent Queue with AI object detection - * training 10 minutes time. </b>
 </p>
 
 ```
@@ -257,3 +257,8 @@ for i in range(nb_frames):
     print( [ x for (x, y) in list(actions.items()) if y == possible_actions ] )
     new_snake.next_step( possible_actions ); 
 ```
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/FlappyBird_small.gif"> </br>
+    <b> Flappy birds with accerelation variables </b>
+</p>
