@@ -37,7 +37,8 @@ from pygame.constants import K_a, K_s, K_d, K_w, K_h   # 🧸💬 import of cons
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/pulse%20code%20modulation.png">
 </p>
 
-👧💬 🎈 Pluse code modulation or time-shifted channel was developed by Nintendo and distributed during our youth time, lond years after supporting of government they lunch the games players ```Nintendo PlayStation``` . </br>
+👧💬 🎈 ```Pluse code modulation``` or ```time-shifted channel``` was developed by Nintendo and distributed during our youth time, long years after supporting of the government they launched the games players ```Nintendo PlayStation``` . </br>
+🐑💬 ➰ This maybe the event called time capsules because of the ability to recover communication messages and transfer rates vary by device negotiation compatibilities. </br>
 
 ### 🧸💬 Global project variables.
 ```
