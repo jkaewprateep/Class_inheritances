@@ -83,8 +83,6 @@ obs = p.getScreenRGB()                                                      # �
     <b> Picture from the Internet </b>
 </p>
 
-
-
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Class / Functions
@@ -183,6 +181,9 @@ class Snake():                                               # 🧸💬 Create c
 ```
 
 ### 🧸💬 Agent Queue class implementation
+
+🐨🎁🎵🎶 In ```Agent Queue``` implementation we prepared for cascade machine learning with multi-agents action classification, or known as ```parallel process``` or ```distribution processing units``` . </br> 
+
 ```
 class AgentQueue():
 
