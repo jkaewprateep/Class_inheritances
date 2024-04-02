@@ -191,36 +191,38 @@ class Snake():                                               # 🧸💬 Create c
 </p>
 
 ```
-class AgentQueue():
+class AgentQueue():                                          # 🧸💬 Agent Queue class constructor
 
-    def __init__ ( self, name ):
-        self.name = name;
-        self.reward = 0;
-        self.step = 0;
+    def __init__ ( self, name ):                             # 🧸💬 Initialization method with name input parameter
+        self.name = name;                                    # 🧸💬 Class variable define
+        self.reward = 0;                                     # 🧸💬 Class variable define
+        self.step = 0;                                       # 🧸💬 Class variable define
         
         ###
-        self.new_Snake = Snake( "Snake_01" );
-    
+        self.new_Snake = Snake( "Snake_01" );                # 🧸💬 Create instance class object with reference
+                                                             # class objectId reference is in class and calling the
+                                                             # class __name__ is return name or custom message.
         return
     
-    def next_step( self, action ):
-        self.reward = p.act( action )
-        self.step = self.step + 1;
-    
-        return
-        
-    def game_over( self ):
-        self.reward = 0;
-        self.step = 0;
+    def next_step( self, action ):                           # 🧸💬 next_step action with action input parameter
+        self.reward = p.act( action )                        # 🧸💬 Class variable assignment from action return
+                                                             # 🧸💬 Good for reinforcement machine learning.
+        self.step = self.step + 1;                           # 🧸💬 Additional step variable.
     
         return
         
-    def read_gamestate( self ):
+    def game_over( self ):                                   # 🧸💬 Reset game environment variable
+        self.reward = 0;                                     # 🧸💬 Reset game environment variable
+        self.step = 0;                                       # 🧸💬 Reset game environment variable
+    
+        return
+        
+    def read_gamestate( self ):                              # 🧸💬 Define read game state or can blocked reference
 
-        distance_x = self.new_Snake.get_distance_x();
-        distance_y = self.new_Snake.get_distance_y();
+        distance_x = self.new_Snake.get_distance_x();        # 🧸💬 Call internal class object function return
+        distance_y = self.new_Snake.get_distance_y();        # 🧸💬 Call internal class object function return
         
-        print( f"distance x: { distance_x } distance y: { distance_y }" );
+        print( f"distance x: { distance_x } distance y: { distance_y }" );    # 🧸💬 Console display
 
         return
 ```
