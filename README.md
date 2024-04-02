@@ -15,7 +15,7 @@ Implement Python class inheritance with Pygames and AI for agent queue learning,
 
 🐑💬 ➰ Refer to class or directory structure by the import reference commands, we have control of changes of class method files in the library by ```summation value``` and ```external library```. </br>
 🦭💬 ```Complied``` codes or ```backup``` running code is a good method when ```separation of execution path``` from method and data are good practice for working with third-party applications or someone calls sensitive data. </br>
-🐐💬 In design the Pygame environment constant is similar to console games players and communication of controller and games player device controller accepted of both ```decimal numeric values``` and ```heximal numeric values``` when some games player modification can use ```binary numberic values``` communications but the communication types is start from initial message. Do not shift the jumper otherwise, you may return to ```A-B``` mode as default. ( It is the controller at last button A and B is working or most contrast control is working - can explain in electronics communication and neurons sciences ) </br>
+🐐💬 In design the Pygame environment constant is similar to console games players and communication of controller and games player device controller accepted of both ```decimal numeric values``` and ```heximal numeric values``` when some games player modification can use ```binary numeric values``` communications but the communication types is start from initial message. Do not shift the jumper otherwise, you may return to ```A-B``` mode as default. ( It is the controller at last button A and B is working or most contrast control is working - can explain in electronics communication and neurons sciences ) </br>
 
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -38,7 +38,7 @@ from pygame.constants import K_a, K_s, K_d, K_w, K_h   # 🧸💬 import of cons
 </p>
 
 👧💬 🎈 ```Pluse code modulation``` or ```time-shifted channel``` was developed by Nintendo and distributed during our youth time, long years after supporting of the government they launched the games players ```Nintendo PlayStation``` . </br>
-🐑💬 ➰ This may be the event called ```time capsules `` because of the ability to recover communication messages and transfer rates vary by device negotiation compatibilities. In the ```time capsules``` can store validation matrixes and summary values of the designed communication channel's message you can categorize and summarize computer players for their actions responses and feedback as in console games players save CPU time process when the console box use compatibilities specification for decrypted communication message and response. Of course, random variances create a of variety actions and possibilities by the actions played. </br>
+🐑💬 ➰ This may be the event called ```time capsules ``` because of the ability to recover communication messages and transfer rates vary by device negotiation compatibilities. In the ```time capsules``` can store validation matrixes and summary values of the designed communication channel's message you can categorize and summarize computer players for their actions responses and feedback as in console games players save CPU time process when the console box use compatibilities specification for decrypted communication message and response. Of course, random variances create a of variety actions and possibilities by the actions played. </br>
 
 ### 🧸💬 Global project variables.
 ```
