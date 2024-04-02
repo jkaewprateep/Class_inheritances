@@ -78,10 +78,11 @@ obs = p.getScreenRGB()                                                      # �
 👧💬 🎈 The games cheaters do not have class they do not know how to types ```self``` 💃( 👩‍🏫 )💬 🛍️👠💄 . </br>
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/asian-nerd-girl.jpg">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/asian-nerd-girl.jpg"> </br>
+    <b> Picture from the Internet </b>
 </p>
 
-<b> Picture from the Internet </b>
+
 
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
