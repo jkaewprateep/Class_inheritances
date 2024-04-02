@@ -3,7 +3,9 @@ Implement Python class inheritance with Pygames and AI for agent queue learning,
 
 ### 🧸💬 Sample screen monitoring from Agent Queue class.
 
-🐑💬 ➰ There are class variables and definition variables in class present of use or group by ```self``` and ```group``` for communication between definition methods, internal class, parent and child classes and internal class usage depends on variable types and configurations.
+🐑💬 ➰ There are class variables and definition variables in the class present of use or group by ```self``` and ```group``` for communication between definition methods, internal class, parent and child classes, and internal class usage depending on variable types and configurations. </br>
+👧💬 🎈 Internal class variable defined at the class level and access of this class variable required interaction with ```user``` and ```group``` by ```method``` or ```references```. There is no reference now to create an instance of a class with ```<objectId>``` and access to the same values they used in Python because Python is translation code programming </br>
+🐑💬 ➰ I remembered you can create of a new instance with the same ```<objectId>``` in C that someone is called modern memory hacks but it is now not compatible because of the variable memory assignment method. A programmer who are working with C or programming level knows that ```<objectId>``` is only reference and you can create of a fake message request with the same ```<objectId>``` in communication and now stageless communication prevents them from reuse of the ```<object variables>```. You can create APIs and remove of create messages and required communication methods to prevent third-party applications from reusing the same message but they can do it by communication networks level anyway. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/player_location.png">
