@@ -8,7 +8,8 @@ Implement Python class inheritance with Pygames and AI for agent queue learning,
 🐑💬 ➰ I remembered you can create of a new instance with the same ```<objectId>``` in C that someone is called modern memory hacks but it is now not compatible because of the variable memory assignment method. A programmer who are working with C or programming level knows that ```<objectId>``` is only reference and you can create of a fake message request with the same ```<objectId>``` in communication and now stageless communication prevents them from reuse of the ```<object variables>```. You can create APIs and remove of create messages and required communication methods to prevent third-party applications from reusing the same message but they can do it by communication networks level anyway. </br>
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/player_location.png">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/player_location.png"> </br>
+    <b> Processor run debugging </b>
 </p>
 
 ### 🧸💬 Library import.
@@ -186,7 +187,7 @@ class Snake():                                               # 🧸💬 Create c
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/multi-process.png"> </br>
-    <b> Multi=processes and TF-Agents </b>
+    <b> Multi-processes and TF-Agents </b>
 </p>
 
 ```
