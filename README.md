@@ -2,6 +2,9 @@
 Implement Python class inheritance with Pygames and AI for agent queue learning, 🐑💬 ➰ This is preparation for multi-agent queue learning and cascade machine learning algorithms. This note has inspiration from the course Python 3 Programming Specialization [ Link ]( https://coursera.org/share/ba047d1c5738f9bba3b08a5ac883569d ) about the Python class inheritance and communications.
 
 ### 🧸💬 Sample screen monitoring from Agent Queue class.
+
+🐑💬 ➰ There are class variables and definition variables in class present of use or group by ```self``` and ```group``` for communication between definition methods, internal class, parent and child classes and internal class usage depends on variable types and configurations.
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/player_location.png">
 </p>
