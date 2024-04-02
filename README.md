@@ -89,54 +89,54 @@ obs = p.getScreenRGB()                                                      # �
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Class / Functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
-class Snake():
+class Snake():                                               # 🧸💬 Create class construction
 
-    def __init__ ( self, name ):
-        self.name = name;
-        self.snake_head_x = None;
-        self.snake_head_y = None;
-        self.food_x = None;
-        self.food_y = None;
-        self.snake_body = [];
-        self.snake_body_pos = [];
-        
+    def __init__ ( self, name ):                             # 🧸💬 Class initialization function definition
+        self.name = name;                                    # 🧸💬 Class variables definition
+        self.snake_head_x = None;                            # 🧸💬 Class variables definition
+        self.snake_head_y = None;                            # 🧸💬 Class variables definition
+        self.food_x = None;                                  # 🧸💬 Class variables definition
+        self.food_y = None;                                  # 🧸💬 Class variables definition
+        self.snake_body = [];                                # 🧸💬 Class variables definition
+        self.snake_body_pos = [];                            # 🧸💬 Class variables definition
+
         ###
-        self.dist_x = None;
-        self.dist_y = None;       
-        self.previous_dist_x = None;
-        self.previous_dist_y = None;
+        self.dist_x = None;                                  # 🧸💬 Class variables definition
+        self.dist_y = None;                                  # 🧸💬 Class variables definition
+        self.previous_dist_x = None;                         # 🧸💬 Class variables definition
+        self.previous_dist_y = None;                         # 🧸💬 Class variables definition
         
         return
     
-    def __call__( self ):
-        self.read_gamestate();
+    def __call__( self ):                                    # 🧸💬 Expectation class definition function invoke every time call action
+        self.read_gamestate();                               # 🧸💬 Call update variables method
         
         return
     
-    def read_gamestate( self ):
-        gamestate = p.getGameState( );
+    def read_gamestate( self ):                              # 🧸💬 Update variables method
+        gamestate = p.getGameState( );                       # 🧸💬 Read console or environment variable output
         
-        self.snake_head_x = gamestate["snake_head_x"];
-        self.snake_head_y = gamestate["snake_head_y"];
-        self.food_x = gamestate["food_x"];
-        self.food_y = gamestate["food_y"];
-        self.snake_body = gamestate["snake_body"];
-        self.snake_body_pos = gamestate["snake_body_pos"];
+        self.snake_head_x = gamestate["snake_head_x"];       # 🧸💬 Saved target variable status
+        self.snake_head_y = gamestate["snake_head_y"];       # 🧸💬 Saved target variable status
+        self.food_x = gamestate["food_x"];                   # 🧸💬 Saved target variable status
+        self.food_y = gamestate["food_y"];                   # 🧸💬 Saved target variable status
+        self.snake_body = gamestate["snake_body"];           # 🧸💬 Saved target variable status
+        self.snake_body_pos = gamestate["snake_body_pos"];   # 🧸💬 Saved target variable status
         
-        self.previous_dist_x = self.dist_x;
-        self.previous_dist_y = self.dist_y;
-        self.dist_x = self.snake_head_x - self.food_x;
-        self.dist_y = self.snake_head_y - self.food_y;
+        self.previous_dist_x = self.dist_x;                  # 🧸💬 Saved target variable status
+        self.previous_dist_y = self.dist_y;                  # 🧸💬 Saved target variable status
+        self.dist_x = self.snake_head_x - self.food_x;       # 🧸💬 Saved target variable status
+        self.dist_y = self.snake_head_y - self.food_y;       # 🧸💬 Saved target variable status
         
         ###
-        if not self.previous_dist_x :
-            self.previous_dist_x = 0;
-        if not self.dist_x :
-            self.dist_x = 0;
-        if not self.previous_dist_y :
-            self.previous_dist_y = 0;
-        if not self.dist_y :
-            self.dist_y = 0;
+        if not self.previous_dist_x :                        # 🧸💬 Error preventing stage
+            self.previous_dist_x = 0;                        # 🧸💬 Error preventing stage
+        if not self.dist_x :                                 # 🧸💬 Error preventing stage
+            self.dist_x = 0;                                 # 🧸💬 Error preventing stage
+        if not self.previous_dist_y :                        # 🧸💬 Error preventing stage
+            self.previous_dist_y = 0;                        # 🧸💬 Error preventing stage
+        if not self.dist_y :                                 # 🧸💬 Error preventing stage
+            self.dist_y = 0;                                 # 🧸💬 Error preventing stage
 
         return
         
