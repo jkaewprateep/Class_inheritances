@@ -71,6 +71,12 @@ obs = p.getScreenRGB()                                                      # �
 ```
 
 ### 🧸💬 Snake player class implementation
+
+🐐💬 First we need to know the favorites expectation method ```___init___``` and ```___call___``` we defined ```___init___``` for initialize class variables and setup class running environment when creating the class and initial. In some programs, you can create a Python class without initial as you ```copy``` . </br>
+💃( 👩‍🏫 )💬 Some applications ```seeker``` find the ```invoker`` step to by pass for application validation, the ```__call___``` definition function and ```___init___``` definition function is created into difference place and working continuously as a sequence. Once a ```seeker``` can access the class method initialization and guess of the ```next method in rows``` and ```multiplication variables``` but they cannot skip of the ```___call___``` definition method without modify the games function. </br>
+🐐💬 I can randomly place the same variable name somewhere and forget, the ```seeker``` can invoke of the target function by the ```function invoker``` but they cannot modify the values since they are the same variable names. </br>
+👧💬 🎈 The games cheaters do not have class they do not know how to tyes ```self``` . </br>
+
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Class / Functions
