@@ -7,7 +7,9 @@ Implement Python class inheritance with Pygames and AI for agent queue learning
 </p>
 
 ```
-# Import libraries
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+: Import libraries
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 import sys
 import pygame
 import ple
