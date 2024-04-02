@@ -53,7 +53,10 @@ actions = { "none_1": K_h, "left_1": K_a, "down_1": K_s, "right1": K_d, "up___1"
 nb_frames = 100000000000
 ```
 
-### 🧸💬 Create learning environment.
+### 🧸💬 Create a learning environment.
+
+🐨🎁🎵🎶 In a learning environment is an application with the construct of possible variables they are setup sample the Half-life games for modern environment simulation games and modification games are defined construct variables from the learning environment application games. They are also called ```learning environments``` .
+
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Environment
