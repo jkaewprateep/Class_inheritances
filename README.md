@@ -1,11 +1,12 @@
 # Class_inheritances
 Implement Python class inheritance with Pygames and AI for agent queue learning
 
-
+### 🧸💬 Sample screen monitoring from Agent Queue class.
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/player_location.png">
 </p>
 
+### 🧸💬 Library import.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Import libraries
@@ -22,6 +23,7 @@ from ple.games.snake import Snake as Snake_Game
 from pygame.constants import K_a, K_s, K_d, K_w, K_h
 ```
 
+### 🧸💬 Global project variables.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Variables
@@ -30,6 +32,7 @@ actions = { "none_1": K_h, "left_1": K_a, "down_1": K_s, "right1": K_d, "up___1"
 nb_frames = 100000000000
 ```
 
+### 🧸💬 Create learning environment.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Environment
@@ -41,6 +44,7 @@ p.init()
 obs = p.getScreenRGB()
 ```
 
+### 🧸💬 Snake player class implementation
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Class / Functions
@@ -138,6 +142,7 @@ class Snake():
         return K_h;
 ```
 
+### 🧸💬 Agent Queue class implementation
 ```
 class AgentQueue():
 
@@ -173,6 +178,7 @@ class AgentQueue():
         return
 ```
 
+### 🧸💬 Running tasks iterations.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Tasks
