@@ -33,6 +33,10 @@ from ple.games.snake import Snake as Snake_Game        # 🧸💬 import Sanke g
 from pygame.constants import K_a, K_s, K_d, K_w, K_h   # 🧸💬 import of console constant variables.
 ```
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/pulse%20code%20modulation.png">
+</p>
+
 ### 🧸💬 Global project variables.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
