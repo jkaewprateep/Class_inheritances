@@ -61,11 +61,13 @@ nb_frames = 100000000000
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Environment
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
-game_console = Snake_Game(width=512, height=512, init_length=3);
-p = PLE(game_console, fps=30, display_screen=True, reward_values={})
-p.init()
+game_console = Snake_Game(width=512, height=512, init_length=3);            # 🧸💬 Create instance of class environment with initial values.
+p = PLE(game_console, fps=30, display_screen=True, reward_values={})        # 🧸💬 Reflecter, there are many type of reflectors including
+                                                                            # 🧸💬 screen environment, matrix environment, linear and
+                                                                            # 🧸💬 logarithms and printter communications.
+p.init()                                                                    # 🧸💬 Initialize
 
-obs = p.getScreenRGB()
+obs = p.getScreenRGB()                                                      # 🧸💬 Sample of screen arrays return value collection.
 ```
 
 ### 🧸💬 Snake player class implementation
