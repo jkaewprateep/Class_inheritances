@@ -1,5 +1,10 @@
 # Class_inheritances
-Implement of Python class inhernce with Pygames and AI for agent queue learning
+Implement Python class inheritance with Pygames and AI for agent queue learning
+
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/player_location.png">
+</p>
 
 ```
 # Import libraries
