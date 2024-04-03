@@ -260,5 +260,10 @@ for i in range(nb_frames):
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/FlappyBird_small.gif"> </br>
-    <b> Flappy birds with accerelation variables </b>
+    <b> Flappy birds with accerelation variables </b> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/Snakes.gif"> </br>
+    <b> Snakes </b>
 </p>
+
+
+
