@@ -258,6 +258,8 @@ for i in range(nb_frames):
     new_snake.next_step( possible_actions ); 
 ```
 
+### 🧸💬 AI Games
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Class_inheritances/blob/main/FlappyBird_small.gif"> </br>
     <b> Flappy birds with accerelation variables </b> </br>
